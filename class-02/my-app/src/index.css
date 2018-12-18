@@ -1,0 +1,8 @@
+.center-text {
+  font-family: Verdana;
+  text-align: center;
+}
+
+.center-element {
+  display: inline-block;
+}
